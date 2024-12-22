@@ -101,7 +101,8 @@ export function login(email, password, navigate) {
       dispatch(setProgress(100))
       toast.success("Login Successful")
       dispatch(setToken(response.data.token))
-    
+          dispatch(setUser(response.data.user ));
+
       localStorage.setItem("user", JSON.stringify(response.data.user))
       localStorage.setItem("token", JSON.stringify(response.data.token))
       navigate("/dashboard")
