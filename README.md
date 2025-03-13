@@ -6,16 +6,12 @@
 
 You can watch the demo video below:
 
-![Demo Video](path/to/your/video.mp4)
+[Click here to watch the video](https://res.cloudinary.com/djsy3fc1j/video/upload/v1741885942/Screen_Recording_2024-12-23_135455_woyeib.mp4)
 
 
 
----
 
-### Download the Video 📹
 
-Alternatively, you can download and watch the video:  
-[📹 Screen Recording 2024-12-23](path/to/your/video.mp4)
 
 ---
 
